@@ -25,7 +25,7 @@ export default {
         { id: 3, name: 'Saumya Singh', title: 'Software Engineer @Red Hat', text: this.generateText(), image: require('./assets/3.png'), evaluation: 4.3 },
         { id: 4, name: 'Keshav Bathla', title: 'SDE-1 @Groww', text: this.generateText(), image: require('./assets/4.png'), evaluation: 5 },
         { id: 5, name: 'Ankita', title: 'ML Engineer @Firework', text: this.generateText(), image: require('./assets/5.png'), evaluation: 1.7 },
-        { id: 6, name: 'Thomas R Reinke', linkedin: 'thrnkk', github: 'thrnkk', title: 'Software Engineer @datafrete', text: this.generateAboutMe(), image: require('./assets/thomas.png'), evaluation: 5 },
+        { id: 6, name: 'Thomas R. Reinke', linkedin: 'thrnkk', github: 'thrnkk', title: 'Software Engineer @datafrete', text: this.generateAboutMe(), image: require('./assets/thomas.png'), evaluation: 5 },
       ],
       selected: {}
     }
